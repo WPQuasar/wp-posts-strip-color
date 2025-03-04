@@ -1,4 +1,4 @@
-# wp_posts_strip_color
+# wp-posts-strip-color
 
 ## Overview
 `wp_posts_strip_color` is a Python script designed to remove `color` attributes from inline `style` tags within WordPress post content.
