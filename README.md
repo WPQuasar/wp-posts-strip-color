@@ -23,7 +23,7 @@
    ```
 3. Install dependencies from `requirements.txt`:
    ```sh
-   pip install -r requirements.txt
+   pip3 install -r requirements.txt
    ```
 
 ## Usage
