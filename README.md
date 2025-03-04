@@ -29,12 +29,12 @@
 ## Usage
 Run the script with the required database credentials:
 ```sh
-python wp_posts_strip_color.py --host <DB_HOST> --user <DB_USER> --password <DB_PASS> --database <DB_NAME>
+python3 wp_posts_strip_color.py --host <DB_HOST> --user <DB_USER> --password <DB_PASS> --database <DB_NAME>
 ```
 
 To apply all changes without manual confirmation, use:
 ```sh
-python wp_posts_strip_color.py --host <DB_HOST> --user <DB_USER> --password <DB_PASS> --database <DB_NAME> --apply-all
+python3 wp_posts_strip_color.py --host <DB_HOST> --user <DB_USER> --password <DB_PASS> --database <DB_NAME> --apply-all
 ```
 
 ## Example Output
